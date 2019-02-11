@@ -1,0 +1,16 @@
+Cocacola      2,5
+
+1      Mesa 3      2,5
+Total        2,5$
+Cocacola      2,5
+
+1      Mesa 4      2,5
+Total        2,5$
+Cocacola      2,5
+
+1      Mesa 2      2,5
+Total        2,5$
+Cocacola      2,5
+
+1      Mesa 1      2,5
+Total        2,5$
